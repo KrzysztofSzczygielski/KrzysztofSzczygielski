@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @KrzysztofSzczygielski
+- 👀 I’m interested python
